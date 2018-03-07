@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FIGURAS</string>
+    <string name="volumen">Volumen :</string>
+    <string name="perimetro">Perimetro :</string>
+    <string name="area">Area :</string>
+    <string name="cubo">Cubo</string>
+    <string name="triangulo">Triengulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="cuadro">Cuadrado</string>
+    <string name="seleccionar">Seleccione una de las figuras :</string>
+</resources>
